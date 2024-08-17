@@ -1,3 +1,6 @@
 hello_cargo/target/**
 guessing_game/target/**
 varsandmut/target/**
+ownership/target/**
+.gitignore
+
