@@ -3,5 +3,6 @@ guessing_game/target/**
 varsandmut/target/**
 ownership/target/**
 structs/target/**
+enums/target/**
 .gitignore
 
