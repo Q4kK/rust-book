@@ -4,5 +4,6 @@ varsandmut/target/**
 ownership/target/**
 structs/target/**
 enums/target/**
+packages_crates_modules/target/**
 .gitignore
 
